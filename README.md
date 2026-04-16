@@ -13,3 +13,10 @@ Technologies Used:
 - Backend: Node.js or Flask (depending on final version)  
 - ML/NLP: Python, OpenCV, Scikit-learn  
 - Database: MySQL  
+
+
+## Screenshot 
+1.https://github.com/Mahima123-del/stress-level-detection/blob/main/Screenshot%202025-05-18%20193043.png
+2.https://github.com/Mahima123-del/stress-level-detection/blob/main/Screenshot%202025-05-18%20193212.png
+3.https://github.com/Mahima123-del/stress-level-detection/blob/main/Screenshot%202025-05-18%20193333.png
+4.https://github.com/Mahima123-del/stress-level-detection/blob/main/Screenshot%202025-05-18%20204608.png
