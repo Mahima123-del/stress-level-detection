@@ -9,7 +9,7 @@ Key features:
 - **Profile Page**: Displays photo, User ID, Username, and Email of the user  
 
 Technologies Used:  
-- Frontend: HTML, CSS, JavaScript  
+- Frontend: HTML, CSS, JavaScript, React  
 - Backend: Node.js or Flask (depending on final version)  
 - ML/NLP: Python, OpenCV, Scikit-learn  
 - Database: MySQL  
